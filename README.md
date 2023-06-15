@@ -1,5 +1,5 @@
 # Writeup CTF Foresty Hacker Class
-Valdez's write-up ctf hacker class telkom university 
+Valdez's write-up ctf hacker class Telkom University 
 ## List Challenge
 List of Challenge I solved
 ## Week 1
