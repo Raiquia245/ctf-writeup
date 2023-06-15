@@ -5,5 +5,5 @@ List of Challenge I solved
 ## Week 1
 | Category | Challenge |
 | -------- | --------- |
-| Web Exploitation | Fortune Cookies |
+| Web Exploitation | [Fortune Cookies](ctf-writeup/tree/main/Fortune%20Cookies) |
 | Miscellaneous | Sanity Check |
