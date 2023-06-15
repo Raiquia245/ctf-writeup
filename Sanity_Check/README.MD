@@ -1,5 +1,5 @@
 # Sanity Check
-####### decode flag
+###### decode flag
 ## About the Challenge
 Diberikan sebuah flag yang sudah di encode menjadi hex
 ![previecode](images/preview.png)
