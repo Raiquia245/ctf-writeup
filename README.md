@@ -6,4 +6,5 @@ List of Challenge I solved
 | Category | Challenge |
 | -------- | --------- |
 | Web Exploitation | [Fortune Cookies](Fortune_Cookies) |
-| Miscellaneous | Sanity Check |
+| Miscellaneous | [Sanity Check](Sanity_Check) |
+
